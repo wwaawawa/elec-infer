@@ -7,6 +7,8 @@ from torch.utils.data import Dataset, DataLoader, TensorDataset
 from sklearn.preprocessing import LabelEncoder
 from transformers import BertTokenizer
 
+#123123
+
 # 读取数据
 df = pd.read_excel('C:/Users/liyongqi/deep-learning/electricityPredict/electricity/structed_data.xlsx')
 
